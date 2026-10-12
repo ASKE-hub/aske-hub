@@ -10,6 +10,7 @@ I build data-analysis projects with a focus on data quality, exploratory analysi
   <a href="https://www.linkedin.com/in/abubkr-eltaib-885839b0/" title="LinkedIn"><img src="assets/tiles/linkedin.svg" alt="LinkedIn" width="52" height="52" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01e93394efc09dd247" title="Upwork"><img src="assets/tiles/upwork.svg" alt="Upwork" width="52" height="52" /></a>&nbsp;
   <a href="mailto:abubkrsami@gmail.com" title="Email me on Gmail"><img src="assets/tiles/gmail.svg" alt="Gmail" width="52" height="52" /></a>&nbsp;
+  <a href="https://wa.me/97431371295" title="Chat with me on WhatsApp"><img src="assets/tiles/whatsapp.svg" alt="WhatsApp" width="52" height="52" /></a>&nbsp;
 </p>
 
 ### Languages and Tools

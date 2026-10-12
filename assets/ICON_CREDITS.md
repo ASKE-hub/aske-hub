@@ -6,4 +6,6 @@ The Power BI icon is from [Microsoft Power BI Icons](https://github.com/microsof
 
 The Gmail icon is from [Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg), available under [CC0 1.0](licenses/simple-icons-LICENSE.md). It is colored red and scaled inside the same rounded tile. Gmail is a trademark of Google.
 
+The WhatsApp icon is from [Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/icons/whatsapp.svg), available under [CC0 1.0](licenses/simple-icons-LICENSE.md). It is colored green and scaled inside the same rounded tile. WhatsApp retains its trademarks.
+
 Upwork, Excel, DAX, and Power Query use custom text tiles identifying the linked services or technologies. These tiles are not official logos. All other icons are scaled within the same rounded background. No affiliation or endorsement is implied.
