@@ -9,6 +9,7 @@ I build data-analysis projects with a focus on data quality, exploratory analysi
 <p>
   <a href="https://www.linkedin.com/in/abubkr-eltaib-885839b0/" title="LinkedIn"><img src="assets/tiles/linkedin.svg" alt="LinkedIn" width="52" height="52" /></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01e93394efc09dd247" title="Upwork"><img src="assets/tiles/upwork.svg" alt="Upwork" width="52" height="52" /></a>&nbsp;
+  <a href="mailto:abubkrsami@gmail.com" title="Email me on Gmail"><img src="assets/tiles/gmail.svg" alt="Gmail" width="52" height="52" /></a>&nbsp;
 </p>
 
 ### Languages and Tools
@@ -34,4 +35,4 @@ Python · SQL / MySQL · Excel · Power BI · DAX · Power Query · pandas · Nu
 - **[SQL Projects](https://github.com/ASKE-hub/MySQL):** Explore my SQL portfolio.
 - **[Excel Projects](https://github.com/ASKE-hub/Excel-Projects):** Explore my spreadsheet projects.
 
-<sub>Icon sources and credits: [Devicon, Microsoft, and custom text tiles](assets/ICON_CREDITS.md).</sub>
+<sub>Icon sources and credits: [Devicon, Microsoft, Simple Icons, and custom text tiles](assets/ICON_CREDITS.md).</sub>
